@@ -1,0 +1,118 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hospital-1",
+      "description": "Modern hospital exterior",
+      "imageUrl": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aG9zcGl0YWwlMjBidWlsZGluZ3xlbnwwfHx8fDE3NjQzOTcyNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hospital building"
+    },
+    {
+      "id": "hero-image",
+      "description": "A compassionate doctor with a patient",
+      "imageUrl": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkb2N0b3IlMjBwYXRpZW50fGVufDB8fHx8MTc2NDQxODgyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor patient"
+    },
+    {
+      "id": "medical-records",
+      "description": "Medical records on a clipboard",
+      "imageUrl": "https://images.unsplash.com/photo-1758691463198-dc663b8a64e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtZWRpY2FsJTIwcmVjb3Jkc3xlbnwwfHx8fDE3NjQ0MzgxMjJ8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "medical records"
+    },
+    {
+      "id": "doctor-consultation",
+      "description": "Doctor talking to a patient",
+      "imageUrl": "https://images.unsplash.com/photo-1631217873436-b0fa88e71f0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkb2N0b3IlMjBjb25zdWx0YXRpb258ZW58MHx8fHwxNzY0NDM4MTIyfDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor consultation"
+    },
+    {
+      "id": "travel-planning",
+      "description": "Airplane and passport",
+      "imageUrl": "https://images.unsplash.com/photo-1578894381163-e72c17f2d45f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx0cmF2ZWwlMjBwbGFubmluZ3xlbnwwfHx8fDE3NjQ0Mjg1NTV8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "travel planning"
+    },
+    {
+      "id": "passport-visa",
+      "description": "Passport with visa stamps",
+      "imageUrl": "https://images.unsplash.com/photo-1654163600133-452eb7274426?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwYXNzcG9ydCUyMHZpc2F8ZW58MHx8fHwxNzY0NDM4MTIyfDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "passport visa"
+    },
+    {
+      "id": "hospital-care",
+      "description": "Nurse assisting a patient",
+      "imageUrl": "https://images.unsplash.com/photo-1650174378624-c9ab2c99e512?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxob3NwaXRhbCUyMGNhcmV8ZW58MHx8fHwxNzY0NDM4MTIyfDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "hospital care"
+    },
+    {
+      "id": "patient-recovery",
+      "description": "Patient recovering in a hospital bed",
+      "imageUrl": "https://images.unsplash.com/photo-1550791871-0bcd47c97881?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwYXRpZW50JTIwcmVjb3Zlcnl8ZW58MHx8fHwxNzY0NDM4MTIyfDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "patient recovery"
+    },
+    {
+      "id": "cancer-treatment",
+      "description": "Doctor reviewing cancer scan",
+      "imageUrl": "https://images.unsplash.com/photo-1706643568134-71e94471a1c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjYW5jZXIlMjB0cmVhdG1lbnR8ZW58MHx8fHwxNzY0NDM4MTIyfDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "cancer treatment"
+    },
+    {
+      "id": "hospital-interior",
+      "description": "Modern hospital interior",
+      "imageUrl": "https://images.unsplash.com/photo-1565262353342-6e919eab5b58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxob3NwaXRhbCUyMGludGVyaW9yfGVufDB8fHx8MTc2NDQzNjk1NHww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "hospital interior"
+    },
+    {
+      "id": "brain-scan",
+      "description": "MRI scan of a brain",
+      "imageUrl": "https://images.unsplash.com/photo-1738707060236-42d641096f96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxicmFpbiUyMHNjYW58ZW58MHx8fHwxNzY0NDEyMDM2fDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "brain scan"
+    },
+    {
+      "id": "spine-x-ray",
+      "description": "X-ray of a human spine",
+      "imageUrl": "https://images.unsplash.com/photo-1763198302249-db661c45bf7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzcGluZSUyMHgtcmF5fGVufDB8fHx8MTc2NDQzODEyMnww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "spine x-ray"
+    },
+    {
+      "id": "champions-collage",
+      "description": "A collage of champion athletes",
+      "imageUrl": "https://images.unsplash.com/photo-1758979937001-d5ccdbd8a231?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhdGhsZXRlcyUyMGNvbGxhZ2V8ZW58MHx8fHwxNzY0NTI3MTM2fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "athletes collage"
+    },
+    {
+      "id": "doctors-hero",
+      "description": "A group of doctors standing together in a hospital.",
+      "imageUrl": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkb2N0b3JzfGVufDB8fHx8MTc2NDgwOTAxM3ww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctors group"
+    },
+    {
+      "id": "journey-step-1",
+      "description": "A female doctor happily talking to an elderly male patient.",
+      "imageUrl": "https://images.unsplash.com/photo-1666214280557-f1b5022eb634?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkb2N0b3IlMjBkaXNjdXNzaW9ufGVufDB8fHx8MTc2NDUzMjY0OXww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor discussion"
+    },
+    {
+      "id": "journey-step-2",
+      "description": "Two male doctors in scrubs looking at a tablet.",
+      "imageUrl": "https://images.unsplash.com/photo-1758691463331-2ac00e6f676f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkb2N0b3JzJTIwdGFsa2luZ3xlbnwwfHx8fDE3NjQ1MzI2NDl8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctors talking"
+    },
+    {
+      "id": "journey-step-3",
+      "description": "A modern, comfortable living room with a blue and beige sofa.",
+      "imageUrl": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bGl2aW5nJTIwcm9vbXxlbnwwfHx8fDE3NjQ1MTU2MDh8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "living room"
+    },
+    {
+      "id": "journey-step-4",
+      "description": "A smiling female patient looking at the camera.",
+      "imageUrl": "https://images.unsplash.com/photo-1581056771107-24ca5f033842?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwYXRpZW50fGVufDB8fHx8MTc2NDY5NjIyNHww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "smiling patient"
+    },
+    {
+      "id": "why-medico",
+      "description": "Doctor in discussion with a patient, reviewing documents.",
+      "imageUrl": "https://images.unsplash.com/photo-1559132338-634a45a33658?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkb2N0b3IlMjBjb25zdWx0YXRpb258ZW58MHx8fHwxNzY0ODg5MzkxfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor consultation"
+    }
+  ]
+}
